@@ -1,0 +1,29 @@
+Section 1: The Hook
+    Headline: Alex River | Building Digital Experiences that Scale.
+    Sub-headline: I am a Full-Stack Developer based in Austin, TX. I transform complex problems into elegant, user-centric web applications using React and Node.js.
+    CTA Button: [View My Projects] [Let’s Talk]
+
+Section 2: Case Study Example (Project Alpha)
+    Title: "EcoTrack: A Carbon Footprint Visualizer"
+    The Problem: Users felt overwhelmed by climate data and didn't know how to track their individual impact.
+    The Solution: Built a dashboard that gamifies daily habits. I implemented a custom API to fetch real-time energy grid data.
+    Tech Used: MongoDB, Express, React, Node.js (MERN).
+    The Result: 5,000+ active sign-ups in the first month and featured on Product Hunt.
+
+Section 3: Skills & Tools
+    Frontend: React, TypeScript, Tailwind CSS, Next.js.
+    Backend: Node.js, PostgreSQL, GraphQL, AWS (S3/Lambda).
+    Tools: Git, Docker, Figma, Jira.
+    
+Section 4: About Me
+    "I started my journey as a graphic designer, but I quickly realized I didn't just want things to look pretty—I wanted them to work. Today, I bridge the gap between design and engineering. When I’m not staring at a code editor, you’ll find me hiking with my dog, Scout, or hunting for the city's best espresso."
+
+Section 5: Social Proof
+    Testimonial: "Alex is a rare find. They delivered our MVP two weeks ahead of schedule and the code quality was top-tier. Highly recommend!" — Sarah J., CTO of GreenTech.
+    Logos: [Logo 1: Startup Hub] [Logo 2: Freelance Collective]
+
+Section 6: Contact:
+    Email: alex.river.dev@email.com
+    LinkedIn: linkedin.com/in/alexriver
+    GitHub: github.com/ariver-codes
+    Resume: [Download PDF Link]
